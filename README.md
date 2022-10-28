@@ -29,7 +29,7 @@ In order to do so, you must first convert your PDF or PPT-like document into a s
 ## Development (Quick Start)
 
 ```bash
-git clone https://github.com/jshrake/kit-imageseq
+git clone https://github.com/jshrake/kit-image-sequence
 cd kit-imageseq
 ./link_app.bat --app create
 ./app/omni.create.bat --ext-folder exts --enable omni.kit.imageseq
